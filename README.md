@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Emile!
 
-<!--
-**cappelleemile/cappelleemile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Designer & Developer** | HTML, CSS, JavaScript 
 
-Here are some ideas to get you started:
+💡 **What I do:** 
+- 🖥️ Building websites
+- 🎨 Clean and responsive web design 
+- 🚀 Performance optimization 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Check out my projects:** 
+[My portfolio](https://bit.ly/emile.dev) 
+
+📬 **Contact me:** 
+emile.dev@icloud.com
