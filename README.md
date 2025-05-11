@@ -3,7 +3,9 @@
 💡 **What I do:** 
 - 🖥️ Building websites
 - 🌐 Building webapps
-- 📱 Building apps
+- 🎮 FiveM scripter
+
+📍 Based in Belgium
 
 📬 **Contact me:** 
 contact.emile@icloud.com
