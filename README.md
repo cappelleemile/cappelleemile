@@ -3,7 +3,7 @@
 💡 **What I do:** 
 - 🖥️ Building websites
 - 🌐 Building webapps
-- 🎮 FiveM scripter
+- 📱 Building mobile apps
 
 📍 Based in Belgium
 
