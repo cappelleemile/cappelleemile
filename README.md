@@ -8,7 +8,7 @@ I’m a 17-year-old full-stack developer from Belgium. I design and build fast, 
 - 📱 Mobile apps using React Native & Expo
 
 ## 🚀 Tech I use
-React • TypeScript • Firebase • Node.js • Expo • Zustand • Tailwind • and more
+React • TypeScript • Supabase • Node.js • Expo • Tailwind • and more
 
 ## 📫 Let’s connect
 Want to work together? Reach out at  
