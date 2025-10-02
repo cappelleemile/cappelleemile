@@ -1,24 +1,20 @@
-# 👋 Hi, I'm Emile Cappelle
+# Hi, I'm Emile Cappelle
 
-I’m a 17-year-old freelance web developer from Belgium specializing in premium, custom web solutions that deliver real results. I build fast, modern websites, web applications, and mobile apps using cutting-edge technologies.
+I’m a 17-year-old developer and entrepreneur from Belgium. I build high-end websites, apps, and webapps with a focus on design, performance, and long-term value.  
 
 ## What I do
-- Custom websites with Next.js, React & TypeScript
-- Web applications with API integrations and dashboards
-- Mobile apps with React Native, Expo & Swift
+- Founder of **Cappelle Digital** — boutique agency for custom websites & webapps  
+- Creator of **NutriNex** — AI-powered nutrition & calorie camera tracker
 
-## Tech I use
-- **Frontend:** Next.js • React • TypeScript • Tailwind CSS
-- **Backend:** Node.js • MySQL • API Development
-- **Mobile:** React Native • Expo • Swift • iOS Development
+## Focus
+- Crafting **tailor-made digital experiences** for ambitious businesses  
+- Combining **entrepreneurship and creativity** to launch unique digital brands  
 
-# Why work with me?
-- **Premium quality** - No templates, only custom solutions
-- **Personal approach** - Direct contact with the developer, no middlemen
-- **Proven results** - Performance-optimized sites that convert
-- **Full transparency** - Clear communication and honest pricing
+## Vision
+- Make Cappelle Digital a trusted partner for high-end clients  
+- Blend technology, design, and brand storytelling into lasting value  
 
-## Let’s connect
-Ready to elevate your digital presence? Let's discuss how I can help your business.
-- **info@emilecappelle.be**  
-- [emilecappelle.be](https://www.emilecappelle.be)
+## Find Me
+- [Personal Website](https://emilecappelle.be)  
+- [LinkedIn](https://linkedin.com/in/emile-cappelle)  
+- [E-mail](mailto:info@emilecappelle.be)  
