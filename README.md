@@ -1,20 +1,22 @@
-# Hi, I'm Emile Cappelle
+## Hi, I’m Emile 👋  
+End-to-End Web & iOS Developer, and Co-Founder & CTO @ NutriNex
 
-I’m a 17-year-old developer and entrepreneur from Belgium. I build high-end websites, apps, and webapps with a focus on design, performance, and long-term value.  
+I build productive and engaging iOS apps from scratch and take them all the way to launch. I also create websites end-to-end, from design and development to deployment. My focus is on turning ideas into functional, scalable digital products.
 
-## What I do
-- Founder of **Cappelle Digital** — boutique agency for custom websites & webapps  
-- Creator of **NutriNex** — AI-powered nutrition & calorie camera tracker
+I’m the Co-Founder & CTO of **NutriNex**, an iOS app that helps users eat better with AI-powered advice.
 
-## Focus
-- Crafting **tailor-made digital experiences** for ambitious businesses  
-- Combining **entrepreneurship and creativity** to launch unique digital brands  
+### What I work on
+- iOS apps (Swift, SwiftUI)
+- Web apps & websites (design, code and launch)
+- Digital products, tools, and experiments
+- Building in public with EmileTheDev
 
-## Vision
-- Make Cappelle Digital a trusted partner for high-end clients  
-- Blend technology, design, and brand storytelling into lasting value  
+### What I care about
+- Clean, practical code  
+- Products that solve real problems  
+- Shipping fast and learning faster  
 
-## Find Me
-- [Personal Website](https://emilecappelle.be)  
-- [LinkedIn](https://linkedin.com/in/emile-cappelle)  
-- [E-mail](mailto:info@emilecappelle.be)  
+### Let’s connect
+🌐 Website: https://emilethedev.com  
+💼 LinkedIn: https://www.linkedin.com/in/emilecappelle  
+🐦 X / Twitter: https://x.com/EmileTheDev  
